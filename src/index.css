@@ -419,6 +419,7 @@ width: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	text-align: center;
 	flex-direction: column;
 	background-color: rgba(23,209,172,0.80);
 	display:none;
